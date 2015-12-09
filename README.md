@@ -2,6 +2,7 @@ Requirements:
 - Gnome 3
 - Conky
 - $HOME/.fonts directory
+- 
 Setup conky:
 Choose your Interface for TCP connections.
 To see your interfeces use the command below.
