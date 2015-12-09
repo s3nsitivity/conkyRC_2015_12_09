@@ -1,12 +1,11 @@
-Requirements:
-- Gnome 3
-- Conky
-- $HOME/.fonts directory
-- 
+$HOME/.fonts directory
+
 Setup conky:
+
 Choose your Interface for TCP connections.
 To see your interfeces use the command below.
 Ip link show
+
 Copy the ConkyWeather.ttf to $HOME/.fonts directory. If it's not exist
 create one.
 Copy the weather_conky directory to your $HOME.
